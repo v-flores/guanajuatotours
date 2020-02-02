@@ -18,7 +18,7 @@ export default class Tour extends Component {
           <h3>{city}</h3>
           <h4>${price}</h4>
           <h3>{name}</h3>
-          <h3>info }</h3>
+          <p>{ info }</p>
           <span>
             <i className="fas fa-caret-square-down"></i>
           </span>

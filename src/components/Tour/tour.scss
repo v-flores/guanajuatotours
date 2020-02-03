@@ -42,7 +42,8 @@
   padding: 1rem 0.5rem;
   h3 {
     text-transform: uppercase;
-    color: $mainGreen;
+    color: $mainBlack;
+    display: inline;
   }
   h4 {
     text-transform: capitalize;
@@ -56,5 +57,9 @@
       font-size: 1.2rem;
       cursor: pointer;
     }
+  }
+  i {
+    display: inline;
+    color: $mainGreen;
   }
 }
